@@ -7,3 +7,4 @@ __pycache__/
 node_modules/
 .github/
 cloudinary_python.txt
+ os.environ.setdefault("DATABASE_URL", "postgres://vzbfqvqy:QLcgnrjQEFmyGkKDKlL4EsKZND-k799o@lucky.db.elephantsql.com/vzbfqvqy")
